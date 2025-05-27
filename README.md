@@ -1,5 +1,5 @@
-````markdown
-# 🌍 Satellite Image to Map Conversion and Land Cover Analysis
+
+## 🌍 Satellite Image to Map Conversion and Land Cover Analysis
 
 This project leverages a **Pix2Pix GAN** architecture to convert satellite imagery into human-readable map visuals and performs **land cover analysis** to detect vegetation, water bodies, and land regions. The system is packaged into an intuitive **Streamlit** web application for real-time use.
 
