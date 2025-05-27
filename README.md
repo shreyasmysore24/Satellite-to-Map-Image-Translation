@@ -40,7 +40,7 @@ git clone https://github.com/shreyasmysore24/Satellite-to-Map-Image-Translation.
 ### 🏋️‍♂️ Train the model :
 
 ```bash
-python train.py
+train.ipynb
 ```
 
 ### 🚀 Launch the Streamlit app:
