@@ -2,7 +2,7 @@
 ## 🌍 Satellite Image to Map Conversion and Land Cover Analysis
 
 This project leverages a **Pix2Pix GAN** architecture to convert satellite imagery into human-readable map visuals and performs **land cover analysis** to detect vegetation, water bodies, and land regions. The system is packaged into an intuitive **Streamlit** web application for real-time use.
-
+dataset(http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz).
 ---
 
 ## 🚀 Features
@@ -28,9 +28,7 @@ This project leverages a **Pix2Pix GAN** architecture to convert satellite image
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/satellite-map-gan.git
-cd satellite-map-gan
-pip install -r requirements.txt
+git clone https://github.com/shreyasmysore24/Satellite-to-Map-Image-Translation.git
 ````
 
 > ✅ Ensure your system has a CUDA-compatible GPU for faster processing.
@@ -39,7 +37,7 @@ pip install -r requirements.txt
 
 ## 🖼️ Usage
 
-### 🏋️‍♂️ Train the model (or load a pre-trained checkpoint):
+### 🏋️‍♂️ Train the model :
 
 ```bash
 python train.py
@@ -86,7 +84,10 @@ streamlit run main.py
 
 ## 📸 Sample Output
 
-> *Add sample before-and-after images of satellite input and generated map here*
+<p float="left">
+  <img src="satellite.jpg" width="45%" />
+  <img src="generatedm ap.jpg" width="45%" />
+</p>
 
 ---
 
