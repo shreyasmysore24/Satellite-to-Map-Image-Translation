@@ -85,9 +85,10 @@ streamlit run main.py
 ## 📸 Sample Output
 
 <p float="left">
-  <img src="satellite.jpg" width="45%" />
-  <img src="generatedm ap.jpg" width="45%" />
+  <img src="satellite.png" width="45%" />
+  <img src="generated map.png" width="45%" />
 </p>
+
 
 ---
 
